@@ -1,0 +1,10 @@
+{
+  "information":[
+	{
+		"name": "warm year",
+		"alert": [
+			{ "temperaturechange":0}
+		]
+	}
+  ]
+}
